@@ -72,6 +72,7 @@
     "andwearappversioncode": "1",
     "andwearmaxsdkkey": "None",
     "antialiaseddrawing": "false",
+    "andtargetsdkkey": "11.0 (30)",
     "apmappload": "false",
     "apmapptransition": "false",
     "apmcrash": "true",
