@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_a7dc5c16f2df4cf1a6d5c669f45e08b3": {
+        "id": "AS_FlexContainer_a7dc5c16f2df4cf1a6d5c669f45e08b3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f0ce9a15cfd1448d8b500defb5c0ba8b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__j2b40080a8f0410c82b553dd1be97f5b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmOrders",
+            "formKUID": "e29fe7f376cb401ca900ad8a4eadc7f0",
+            "projectName": "MicroApp2",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

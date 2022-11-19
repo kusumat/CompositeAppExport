@@ -1,0 +1,20 @@
+{
+    "dependencies": [
+        {
+            "name": "MicroApp3",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        },
+        {
+            "name": "MicroApp2",
+            "isHidden": false,
+            "excludeFromBuild": false
+        },
+        {
+            "name": "MicroApp1",
+            "isHidden": false,
+            "excludeFromBuild": false
+        }
+    ]
+}
